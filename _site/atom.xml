@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/ml2526/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/ml2526/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/ml2627/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/ml2627/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/ml2526/</id>
+	<id>http://localhost:4000/ml2627/</id>
 	<title>Machine learning</title>
-	<updated>2025-10-17T10:36:23+02:00</updated>
+	<updated>2026-09-26T17:25:41+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/ml2526/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/ml2526/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/ml2627/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/ml2627/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/ml2526/lezioni/lezione/</id>
+			<id>http://localhost:4000/ml2627/lezioni/lezione/</id>
 			<title>Esercitazione 2</title>
-			<link href="http://localhost:4000/ml2526/lezioni/lezione/" rel="alternate" type="text/html" title="Esercitazione 2" />
+			<link href="http://localhost:4000/ml2627/lezioni/lezione/" rel="alternate" type="text/html" title="Esercitazione 2" />
 			<updated>2025-10-17T00:00:00+02:00</updated>
 
 			
@@ -44,7 +44,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml2526/lezioni/lezione/">
+			<content type="html" xml:base="http://localhost:4000/ml2627/lezioni/lezione/">
 </content>
 
 			
@@ -56,9 +56,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/ml2526/lezioni/lezione/</id>
+			<id>http://localhost:4000/ml2627/lezioni/lezione/</id>
 			<title>Lezione 4</title>
-			<link href="http://localhost:4000/ml2526/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 4" />
+			<link href="http://localhost:4000/ml2627/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 4" />
 			<updated>2025-10-16T00:00:00+02:00</updated>
 
 			
@@ -74,7 +74,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml2526/lezioni/lezione/">
+			<content type="html" xml:base="http://localhost:4000/ml2627/lezioni/lezione/">
 </content>
 
 			
@@ -86,9 +86,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/ml2526/comunicazioni/python/</id>
+			<id>http://localhost:4000/ml2627/comunicazioni/python/</id>
 			<title>Modifica aula lezioni</title>
-			<link href="http://localhost:4000/ml2526/comunicazioni/python/" rel="alternate" type="text/html" title="Modifica aula lezioni" />
+			<link href="http://localhost:4000/ml2627/comunicazioni/python/" rel="alternate" type="text/html" title="Modifica aula lezioni" />
 			<updated>2025-10-16T00:00:00+02:00</updated>
 
 			
@@ -104,7 +104,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml2526/comunicazioni/python/">&lt;p&gt;Dalla data di oggi, tutte le lezioni e le esercitazioni saranno tenute in aula 22 a Sogene, negli stessi orari precedenti.&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/ml2627/comunicazioni/python/">&lt;p&gt;Dalla data di oggi, tutte le lezioni e le esercitazioni saranno tenute in aula 22 a Sogene, negli stessi orari precedenti.&lt;/p&gt;
 </content>
 
 			
@@ -116,9 +116,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/ml2526/lezioni/lezione/</id>
+			<id>http://localhost:4000/ml2627/lezioni/lezione/</id>
 			<title>Lezione 3</title>
-			<link href="http://localhost:4000/ml2526/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 3" />
+			<link href="http://localhost:4000/ml2627/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 3" />
 			<updated>2025-10-13T00:00:00+02:00</updated>
 
 			
@@ -134,7 +134,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml2526/lezioni/lezione/">
+			<content type="html" xml:base="http://localhost:4000/ml2627/lezioni/lezione/">
 </content>
 
 			
@@ -146,9 +146,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/ml2526/lezioni/lezione/</id>
+			<id>http://localhost:4000/ml2627/lezioni/lezione/</id>
 			<title>Esercitazione 1</title>
-			<link href="http://localhost:4000/ml2526/lezioni/lezione/" rel="alternate" type="text/html" title="Esercitazione 1" />
+			<link href="http://localhost:4000/ml2627/lezioni/lezione/" rel="alternate" type="text/html" title="Esercitazione 1" />
 			<updated>2025-10-10T00:00:00+02:00</updated>
 
 			
@@ -164,7 +164,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml2526/lezioni/lezione/">
+			<content type="html" xml:base="http://localhost:4000/ml2627/lezioni/lezione/">
 </content>
 
 			
@@ -176,9 +176,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/ml2526/lezioni/lezione/</id>
+			<id>http://localhost:4000/ml2627/lezioni/lezione/</id>
 			<title>Lezione 2</title>
-			<link href="http://localhost:4000/ml2526/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 2" />
+			<link href="http://localhost:4000/ml2627/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 2" />
 			<updated>2025-10-09T00:00:00+02:00</updated>
 
 			
@@ -194,7 +194,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml2526/lezioni/lezione/">
+			<content type="html" xml:base="http://localhost:4000/ml2627/lezioni/lezione/">
 </content>
 
 			
@@ -206,9 +206,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/ml2526/lezioni/lezione/</id>
+			<id>http://localhost:4000/ml2627/lezioni/lezione/</id>
 			<title>Lezione 1</title>
-			<link href="http://localhost:4000/ml2526/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 1" />
+			<link href="http://localhost:4000/ml2627/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 1" />
 			<updated>2025-10-06T00:00:00+02:00</updated>
 
 			
@@ -224,7 +224,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml2526/lezioni/lezione/">
+			<content type="html" xml:base="http://localhost:4000/ml2627/lezioni/lezione/">
 </content>
 
 			
