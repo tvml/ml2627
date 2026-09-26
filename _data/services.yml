@@ -1,11 +1,11 @@
 - menu_name: "Contatti"
 
 - name: "Mail"
-  url: "giorgio.gambosi@uniroma2.it"
-  title: "Mail"
-  
-- name: "Mail"
   url: "croce@info.uniroma2.it"
+  title: "Mail"
+
+- name: "Mail"
+  url: "giorgio.gambosi@uniroma2.it"
   title: "Mail"
 
 #- name: "Twitter"

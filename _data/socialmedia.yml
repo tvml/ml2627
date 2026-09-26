@@ -1,10 +1,10 @@
 - name: Mail
-  url: "mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning"
+  url: "mailto:croce@info.uniroma2.it?&subject=Corso%20Machine%20learning"
   class: icon-mail
   title: ""
-  
+
 - name: Mail
-  url: "mailto:croce@info.uniroma2.it?&subject=Corso%20Machine%20learning"
+  url: "mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning"
   class: icon-mail
   title: ""
   
