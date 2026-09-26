@@ -192,30 +192,6 @@
           
           
         
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
-        
         
       </ul>
 
@@ -274,21 +250,6 @@
 
             
             
-              <li><a href="http://localhost:4000/ml2627/lucidi/">lucidi</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
               <li><a href="http://localhost:4000/ml2627/note/">note</a></li>
               <li class="divider"></li>
 
@@ -305,51 +266,6 @@
             
             
               <li><a href="http://localhost:4000/ml2627/codici/">codici</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/ml2627/dataset/">dataset</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/ml2627/comunicazioni/">Comunicazioni</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a href="http://localhost:4000/ml2627/lezioni/">Lezioni</a></li>
               <li class="divider"></li>
 
             

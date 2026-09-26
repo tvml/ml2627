@@ -13,9 +13,9 @@
   url: "/programma/"
   side: left
   
-- title: lucidi
-  url: "/lucidi/"
-  side: left
+#- title: lucidi
+#  url: "/lucidi/"
+#  side: left
   
 - title: note
   url: "/note/"
@@ -25,17 +25,17 @@
   url: "/codici/"
   side: left
 
-- title: dataset
-  url: "/dataset/"
-  side: left
+#- title: dataset
+#  url: "/dataset/"
+#  side: left
   
-- title: Comunicazioni
-  url: "/comunicazioni/"
-  side: left
+#- title: Comunicazioni
+#  url: "/comunicazioni/"
+#  side: left
   
-- title: Lezioni
-  url: "/lezioni/"
-  side: left
+#- title: Lezioni
+#  url: "/lezioni/"
+#  side: left
   
 - title: Progetti
   url: "/progetti/"
