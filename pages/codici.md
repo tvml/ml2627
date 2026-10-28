@@ -24,3 +24,7 @@ header: no
 1. [`linear regression.`{:.codelink}]({{ site.baseurl }}{%link codici/linear_regression.ipynb %}) Metodi di regressione lineare(notebook) [In colab](https://colab.research.google.com/github/tvml/ml2627/blob/master/codici/linear_regression.ipynb)
 
 1. [`Regression.`{:.codelink}]({{ site.baseurl }}{%link codici/regression.ipynb %}) Esempi di regressione mediante scikit-learn (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2627/blob/master/codici/regression.ipynb)
+
+1. [`Gaussian process 1.`{:.codelink}]({{ site.baseurl }}{%link codici/gp.ipynb %}) Regressione mediante processi gaussiani 1 (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2627/blob/master/codici/gp.ipynb)
+
+1. [`Gaussian process 2.`{:.codelink}]({{ site.baseurl }}{%link codici/gaussian_process.ipynb %}) Regressione mediante processi gaussiani 2 (notebook) [In colab](https://colab.research.google.com/github/tvml/ml2627/blob/master/codici/gaussian_process.ipynb)
